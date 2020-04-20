@@ -16,4 +16,4 @@ BMI <- data.frame(
   height=c(152,155,148),
   age=c(23,24,25)
 )
-print(BMI)
+print()
